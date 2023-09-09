@@ -309,3 +309,15 @@ for (g in 1:length(selected_urls)) {
   # Combine statistics for all games into full_stat
   full_stat <- rbind(full_stat, all_stat)
 }
+# To open to files into one data
+file_names <- list.files(pattern = "World",full.names = T)
+
+all_stat <- read_csv(file_names[1],show_col_types = F)
+
+for (f in file_names[-1]) all_stat <- rbind(all_stat, read_csv(f, show_col_types = FALSE))
+
+# To check Duplicates                                                                                    
+length(unique(all_stat))
+                                                                                      
+# Redundant Column
+all_stat[,1] <- NULL                                                                          
