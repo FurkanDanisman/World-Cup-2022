@@ -1,3 +1,28 @@
+# Libraries
+
+# Libraries (It is combined library for all the codes regarding World Cup 2022 Analysis)
+library(rvest)
+library(stringr)
+library(dplyr)
+library(ggplot2)
+library(plotly)
+library(readr)
+library(gghighlight)
+library(colorspace)
+library(curl)
+library(BasketballAnalyzeR)
+library(htmltab)
+library(gridExtra)
+library(cowplot)
+library(kableExtra)
+library(magick)
+library(ggbreak) 
+library(patchwork)
+library(tidyr)
+library(dplyr)
+library(kableExtra)
+library(knitr)
+
 # Upload the scraped data
 file_names <- list.files(pattern = "World",full.names = T)
 
