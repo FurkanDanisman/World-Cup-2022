@@ -1,15 +1,3 @@
-# Upload the scraped data
-file_names <- list.files(pattern = "World",full.names = T)
-
-all_stat <- read_csv(file_names[1],show_col_types = F)
-
-
-for (f in file_names[-1]) all_stat <- rbind(all_stat, read_csv(f, show_col_types = FALSE))
-
-length(unique(all_stat))
-
-all_stat[,1] <- NULL
-
 # Libraries (It is combined library for all the codes regarding World Cup 2022 Analysis)
 library(rvest)
 library(stringr)
