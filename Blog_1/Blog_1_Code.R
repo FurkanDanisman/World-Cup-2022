@@ -1,5 +1,3 @@
-# Libraries
-
 # Libraries (It is combined library for all the codes regarding World Cup 2022 Analysis)
 library(rvest)
 library(stringr)
