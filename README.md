@@ -3,7 +3,7 @@ Code of every blog will be posted over here.
 
 ## List of Blogs
 - [Unmasking World Cup 2022: Was Messi’s Triumph Premeditated?](#Unmasking-World-Cup-2022:-Was-Messi’s-Triump-Premeditated?)
-- [World Cup 2022 Showdown: Messi vs. Mbappé — The Battle of Glory](#World-Cup-2022-Showdown:-Messi-vs.-Mbappé—The-Battle-of-Glory)
+- [World Cup 2022 Showdown: Messi vs. Mbappé — The Battle of Glory](#World-Cup-2022-Showdown:-Messi-vs.-Mbappé-The-Battle-of-Glory)
 - [Analyzing Top-Performing Players in the World Cup 2022](#Analyzing-Top-Performing-Players-in-the-World-Cup-2022)
 
 ## Unmasking World Cup 2022: Was Messi’s Triumph Premeditated?
