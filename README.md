@@ -6,7 +6,7 @@ Code of every blog will be posted over here.
 - [World Cup 2022 Showdown: Messi vs. Mbappé — The Battle of Glory](#2nd - World Cup 2022 Showdown: Messi vs. Mbappé — The Battle of Glory)
 - [Analyzing Top-Performing Players in the World Cup 2022](#3rd - Analyzing Top-Performing Players in the World Cup 2022)
 
-## Unmasking-World-Cup-2022:-Was-Messi’s-Triumph-Premeditated?
+## Unmasking World Cup 2022: Was Messi’s Triumph Premeditated?
 To check the blog you may click [here](https://medium.com/@furkandanisman/unmasking-world-cup-2022-c87e6acd4206). 
 To check the code of the blog please click [here](https://github.com/FurkanDanisman/World-Cup-2022/blob/main/Blog_1/Blog_1_Code.R).
 
